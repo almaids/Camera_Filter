@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344907963327",
+    "project_id": "biodatasaya-c11b3",
+    "storage_bucket": "biodatasaya-c11b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344907963327:android:663b6c6d6011619ec71f0a",
+        "android_client_info": {
+          "package_name": "com.example.biodatasaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcZdMq6m3-AS_atFjEZTT36NK2xLbhUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
